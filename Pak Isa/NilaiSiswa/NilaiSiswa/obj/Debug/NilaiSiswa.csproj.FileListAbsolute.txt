@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\bin\Debug\NilaiSiswa.exe.config
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\bin\Debug\NilaiSiswa.exe
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\bin\Debug\NilaiSiswa.pdb
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\obj\Debug\NilaiSiswa.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\obj\Debug\NilaiSiswa.NilaiSiswa.resources
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\obj\Debug\NilaiSiswa.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\obj\Debug\NilaiSiswa.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\obj\Debug\NilaiSiswa.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\obj\Debug\NilaiSiswa.exe
+C:\Users\LENOVO\OneDrive\Documents\XI-RPL\NilaiSiswa\NilaiSiswa\obj\Debug\NilaiSiswa.pdb
